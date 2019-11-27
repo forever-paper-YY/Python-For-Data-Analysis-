@@ -7,3 +7,23 @@
 一、数据结构和序列
 
 1、元组
+（1）元组拆包
+（2）元组方法
+
+2、列表
+（1）增加和移除元素：append/insert/pop/remove/in/not in
+（2）连接和联合列表
+（3）排序
+（4）二分搜索和已排序列表的维护
+（5）切片
+
+3、内建序列函数
+（1）enumerate函数
+（2）sorted函数：
+排序的规则见官方文档 https://docs.python.org/zh-cn/3/howto/sorting.html#sortinghowto
+（3）zip函数
+（4）reversed
+
+4、字典
+
+
